@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Mallet</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>class</name>
+			<type>2</type>
+			<location>/afs/ir.stanford.edu/users/m/s/msafdari/Downloads/mallet-2.0.6/class</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>/afs/ir.stanford.edu/users/m/s/msafdari/Downloads/mallet-2.0.6/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
